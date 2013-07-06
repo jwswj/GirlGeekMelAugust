@@ -10,13 +10,16 @@ Girl Geek Melbourne August Workshop
 
 ## Event
 
-Time: August 2013
-Location: Zendesk, 482 Bourke St, Melbourne
+**Time:** August 2013
+
+**Location:** Zendesk, 482 Bourke St, Melbourne
 
 ### Structure
 
 6:00pm - 6:30pm Drinks & Food
+
 6:30pm - 7:30pm Presentation
+
 7:30pm - 9:30pm Workshops
 
 ## TODO
