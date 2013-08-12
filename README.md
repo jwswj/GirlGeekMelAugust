@@ -1,16 +1,14 @@
 Girl Geek Melbourne August Workshop
 ==================
 
-# HTML & CSS
-
 ## Goals
 
-- Give an overview of HTML & CSS
-- Advance the skills of participants in HTML & CSS
+- Give an overview of HTML, CSS & JavaScript
+- Advance the skills of participants in CSS & JavaScript
 
 ## Event
 
-**Time:** August 2013
+**Time:** 12th August 2013
 
 **Location:** Zendesk, 482 Bourke St, Melbourne
 
@@ -21,6 +19,3 @@ Girl Geek Melbourne August Workshop
 6:30pm - 7:30pm Presentation
 
 7:30pm - 9:30pm Workshops
-
-## TODO
-
